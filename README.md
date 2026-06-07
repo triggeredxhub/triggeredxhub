@@ -14,6 +14,10 @@
 
 ### 💼 Work Experience
 
+- 🏢 **Full time @ Singapore Ecommerce (Sept 2025 - March 2026)**  
+  *Role:* Full-stack Developer (Node.js, React-Native, MySQL, PostgreSQL), Automation Specailist(n8n,zapier,Uchat)
+  *Built a Health mobile application with AI integration and customer Support Automation in uchat with Zoho integration*
+  
 - 🏢 **Intern @ PLSP-IS**  
   *Role:* Full-stack Developer (Node.js, Flutter, MySQL)  
   *Built internal tools for university operations*
