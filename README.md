@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan Antonio</h1>
-<h3 align="center">Junior Developer | Flutter Enthusiast | Web Dev in Progress</h3>
+<h3 align="center">Junior Developer | Flutter/React Native Enthusiast | Web Dev in Progress</h3>
 
 ---
 
