@@ -6,8 +6,8 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on a **Learning Management System (LMS)**  
-- 🌱 I’m currently learning **React**, **Vite**, and modern web dev stacks  
-- 💻 I previously interned at **PLSP-IS** as a frontend & backend developer  
+- 🌱 I’m currently learning **React Native**, **Vite**, and modern web dev stacks  
+- 💻 I previously work at **Singapore Ecommerce** as a frontend & backend developer  
 - ⚡ Fun fact: I love solving real-world problems with code
 
 ---
@@ -45,7 +45,16 @@
 
 ---
 
-### 📱 Featured Project: LMS App
+### 📱 Featured Project: Health AI and LMS
+
+> A full Health tracking App with AI integration, user roles, REST API, and mobile frontend.
+
+- **Frontend**: React Native 
+- **Backend**: Node.js + Railway  
+- **Auth**: Firebase  
+- **Database**: PostgreSQL
+
+🔗 [Project Page](https://healthai.sgecentre.com/)
 
 > A full LMS with user roles, REST API, and mobile frontend.
 
